@@ -1,4 +1,4 @@
-(https://imgur.com/a/3xTkihC)
+
 
 ## Getting Started with Vite
 
