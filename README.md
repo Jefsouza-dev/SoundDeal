@@ -1,9 +1,14 @@
 # **Getting Started with Vite**
 
+# SoundDeal
+
+SoundDeal is a platform for buying and selling musical instruments, which includes secure authentication and search functionality.
+
+Link to deploy: https://sound-deal.vercel.app/
 
 
-## Prerequisites
 
+## How to run the project.
 Before you begin, make sure you have Node.js and npm installed on your system. If you haven't already, follow the instructions at [Node.js](https://nodejs.org/) to install.
 
 
@@ -14,7 +19,7 @@ To start the project, first, clone this repository to your local machine. Open t
 
 
 ```bash
-git clone https://github.com/Jefsouza-dev/TechMall.git
+git clone https://github.com/Jefsouza-dev/SoundDeal.git
 ```
 
 
